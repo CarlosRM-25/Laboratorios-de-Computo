@@ -1,0 +1,97 @@
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\appsettings.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.staticwebassets.runtime.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.staticwebassets.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.exe
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.deps.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.runtimeconfig.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\bin\Debug\net9.0\Gestión de Reservas.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.AssemblyInfoInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.AssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.RazorAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.RazorAssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\scopedcss\bundle\Gestión de Reservas.styles.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\scopedcss\projectbundle\Gestión de Reservas.bundle.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\svn9wkw7no-b9sayid5wm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\83qaanm4vb-61n19gt1b8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\wbpc15gztz-xtxxf3hu2r.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\c5tzx332y1-bqjiyaj88i.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\8t87cr0sm7-c2jlpeoesf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\njs1iqh1xk-erw9l3u2r3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\sbisxhyb5y-aexeepp0ev.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\yts4od387c-d7shbmvgxk.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\uy3ruw6hj8-ausgxo2sd3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\4wxor9tj0p-k8d9w2qqmf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\wdeli3tqie-cosvhxvwiu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\6mp15d5i28-ub07r2b239.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\x1c7iamdzh-fvhpjtyr6v.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\9ezkyr3pnd-b7pk76d08c.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\jrun3183c9-fsbi9cje9m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\7b2wo99fkr-rzd6atqjts.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\ciym155bj1-ee0r1s7dh0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\a1f9r0e95c-dxx9fxp4il.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\z5ni2dg2rj-jd9uben2k1.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\geydoxz58h-khv3u5hwcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\m57ck3kwrp-r4e9w2rdcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\91gjbzltxj-lcd1t2u6c8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\5azouanelh-c2oey78nd0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\44ffk9hwv6-tdbxkamptv.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\xlo08tuq3p-j5mq2jizvt.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\y2q889s3wq-06098lyss8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\6edp4hzzne-nvvlpmu67g.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\1a2lld68ca-s35ty4nyc5.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\umg7c69pit-pj5nd1wqec.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\d7cpbp1ntk-46ein0sx1k.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\7j8rq1q54l-v0zj4ognzu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\trablc0j7f-37tfw0ft22.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\f9xp61zuqf-hrwsygsryq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\ihlqjpqmux-pk9g2wxc8p.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\v8av98x41j-ft3s53vfgj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\z9namglxtz-6cfz1n2cew.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\kd051kj9sy-6pdc2jztkx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\r4e3ojhhxj-493y06b0oq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\yrxub7p3tx-iovd86k7lj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\hn6q2akana-vr1egmr9el.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\hmdoo6kpoh-kbrnm935zg.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\9gk0q8luye-jj8uyg4cgr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\gzj0mqslhi-y7v9cxd14o.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\jeqm99gilk-notf2xhcfb.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\pn2xm8vhkg-h1s4sie4z3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\uqzbn1u5u9-63fj8s7r0e.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\tryxihpytw-0j3bgjxly4.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\y89bomx2j7-47otxtyo56.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\sm3kis6t9t-4v8eqarkd7.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\b9qazkuny5-356vix0kms.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\xozt7se6ji-83jwlth58m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\ygr8l1kbck-mrlpezrjn3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\c9tccr8eut-lzl9nlhx6b.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\32mym0tuth-ag7o75518u.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\p4hnawoefz-x0q3zqp4vz.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\wtngx8xqhr-0i3buxo5is.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\z2oqrkd2ef-o1o13a6vjx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\6i0n1bh6ec-ttgo8qnofa.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\9qpgygc9c9-2z0ns9nrw6.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\5jpb7ow48o-muycvpuwrr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\725rqil9c7-87fc7y1x7t.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\83dj9itar2-mlv21k5csn.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\qw6k5i7oni-59j2z6p2t5.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\compressed\e15jntjzkm-59j2z6p2t5.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\refint\Gestión de Reservas.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\Gestión de Reservas.genruntimeconfig.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestión de Reservas\obj\Debug\net9.0\ref\Gestión de Reservas.dll
