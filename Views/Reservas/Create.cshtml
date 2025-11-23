@@ -1,0 +1,85 @@
+﻿@model Gestión_de_Reservas.Models.Reserva
+
+
+@{
+ViewData["Title"] = "Crear Reserva";
+}
+
+
+<h1>Crear Reserva</h1>
+
+
+<form asp-action="Create" method="post">
+<div class="form-group">
+<label asp-for="NombreProfesor"></label>
+<input asp-for="NombreProfesor" class="form-control" />
+<span asp-validation-for="NombreProfesor" class="text-danger"></span>
+</div>
+
+
+<div class="form-group">
+<label asp-for="CorreoInstitucional"></label>
+<input asp-for="CorreoInstitucional" class="form-control" />
+<span asp-validation-for="CorreoInstitucional" class="text-danger"></span>
+</div>
+
+
+<div class="form-group">
+<label asp-for="Laboratorio"></label>
+<select asp-for="Laboratorio" class="form-control">
+<option value="">Seleccione...</option>
+<option>Lab-01</option>
+<option>Lab-02</option>
+<option>Lab-03</option>
+<option>Lab-Redes</option>
+<option>Lab-IA</option>
+</select>
+<span asp-validation-for="Laboratorio" class="text-danger"></span>
+</div>
+
+
+<div class="form-row">
+<div class="form-group col-md-4">
+<label asp-for="FechaReserva"></label>
+<input asp-for="FechaReserva" class="form-control" type="date" />
+<span asp-validation-for="FechaReserva" class="text-danger"></span>
+</div>
+
+
+<div class="form-group col-md-4">
+<label asp-for="HoraInicio"></label>
+<input asp-for="HoraInicio" class="form-control" type="time" />
+<span asp-validation-for="HoraInicio" class="text-danger"></span>
+</div>
+
+
+<div class="form-group col-md-4">
+<label asp-for="HoraFin"></label>
+<input asp-for="HoraFin" class="form-control" type="time" />
+<span asp-validation-for="HoraFin" class="text-danger"></span>
+</div>
+</div>
+
+
+<div class="form-group">
+<label asp-for="Motivo"></label>
+<textarea asp-for="Motivo" class="form-control" rows="3"></textarea>
+<span asp-validation-for="Motivo" class="text-danger"></span>
+</div>
+
+
+<div class="form-group">
+<label asp-for="CodigoReserva"></label>
+<input asp-for="CodigoReserva" class="form-control" />
+<span asp-validation-for="CodigoReserva" class="text-danger"></span>
+</div>
+
+
+<button type="submit" class="btn btn-success">Guardar</button>
+<a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+}

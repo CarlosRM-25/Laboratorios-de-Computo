@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Gestión_de_Reservas.Models.Reserva>
+
+
+@{
+	ViewData["Title"] = "Listado de Reservas";
+}
+
+
+<h1>Listado de Reservas</h1>
+
+
+<p>
+	<a asp-action="Create" class="btn btn-primary">Nueva reserva</a>
+</p>
+
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Código</th>
+			<th>Profesor</th>
+			<th>Correo</th>
+			<th>Laboratorio</th>
+			<th>Fecha</th>
+			<th>Horario</th>
+			<th>Motivo</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var r in Model)
+		{
+			<tr>
+				<td>@r.CodigoReserva</td>
+				<td>@r.NombreProfesor</td>
+				<td>@r.CorreoInstitucional</td>
+				<td>@r.Laboratorio</td>
+				<td>@r.FechaReserva.ToString("yyyy-MM-dd")</td>
+				<td>@r.HoraInicioStr - @r.HoraFinStr</td>
+				<td>@r.Motivo</td>
+			</tr>
+		}
+	</tbody>
+</table>
